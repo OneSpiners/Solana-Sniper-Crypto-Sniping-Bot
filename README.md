@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/github/languages/top/OneSpiners/Solana-sniper-bot">
+    <img src="https://img.shields.io/github/languages/top/OneSpiners/Solana-Sniper-Crypto-Sniping-Bot">
     <br>
 </p>
 
